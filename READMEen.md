@@ -130,7 +130,7 @@ http://localhost:5000/
 
 | Home Page                     | Registration Page |
 |-------------------------------|-------------------|
-| ![Home](ыcreenshots/home.png) | ![Registration](screenshots/registration.png) |
+| ![Home](screenshots/home.png) | ![Registration](screenshots/registration.png) |
 
 ---
 
