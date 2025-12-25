@@ -121,7 +121,7 @@ http://localhost:5000/
 
 | Главная страница | Страница регистрации |
 |------------------|----------------------|
-| ![Главная](static/screenshots/home.png) | ![Регистрация](static/screenshots/registration.png) |
+| ![Главная](screenshots/home.png) | ![Регистрация](screenshots/registration.png) |
 
 ---
 
@@ -129,7 +129,7 @@ http://localhost:5000/
 
 | Страница входа | Страница аккаунта |
 |----------------|-------------------|
-| ![Вход](static/screenshots/enter.png) | ![Аккаунт](static/screenshots/account.png) |
+| ![Вход](screenshots/enter.png) | ![Аккаунт](screenshots/account.png) |
 
 ---
 
