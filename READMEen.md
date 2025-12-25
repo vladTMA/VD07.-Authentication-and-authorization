@@ -128,9 +128,9 @@ http://localhost:5000/
 
 ### Main Pages
 
-| Home Page | Registration Page |
-|-----------|-------------------|
-| ![Home](screenshots/home.png) | ![Registration](screenshots/registration.png) |
+| Home Page                     | Registration Page |
+|-------------------------------|-------------------|
+| ![Home](ыcreenshots/home.png) | ![Registration](screenshots/registration.png) |
 
 ---
 
